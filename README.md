@@ -5,7 +5,7 @@ To develop this application I used the MVC design pattern and  Kotlin as a progr
 
 
 
-https://user-images.githubusercontent.com/26799447/211074103-f3b2bf8d-0c19-49c3-b41a-e7f08f96ad93.mp4
+                      https://user-images.githubusercontent.com/26799447/211074103-f3b2bf8d-0c19-49c3-b41a-e7f08f96ad93.mp4
 
 
 
